@@ -18,7 +18,7 @@ Write a program to draw the pascal triangle
 
 Question 4:
 ------------
-Write a program in c which add minimum 20 digit numbers
+Write a program in c which add minimum 20 digit numbers  
 
 [See Solution Here](https://github.com/Avi-1996/C-Language/blob/master/C Master College Competition/add.c)
 
