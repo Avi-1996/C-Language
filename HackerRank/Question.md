@@ -5,3 +5,7 @@
 [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 
 [See Solution Here](https://github.com/Avi-1996/C-Language/blob/master/HackerRank/MigratoryBirds.py)
+
+[Apple And Oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem)
+
+[See Solution Here](https://github.com/Avi-1996/C-Language/blob/master/HackerRank//Apple.py)
