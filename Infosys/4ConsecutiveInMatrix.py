@@ -122,6 +122,5 @@ LeftDiagonal(l)
 RightDiagonal(l)
 HorZontal(l)
 Vertical(l)
-print(small)
 # Now print the result if any other print -1
 print(min(small)) if small else print("-1")
