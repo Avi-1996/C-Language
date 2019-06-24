@@ -13,7 +13,7 @@ avi:22,path:41
 Explanation -:
 sume of sqaure of digit 22 is 8 which is even so we left rotate avi by one character
 
-sume of sqaure of digit 41 is 17 which is odd so we left rotate path by one character two times
+sume of sqaure of digit 41 is 17 which is odd so we Right rotate path by one character two times
 
 OUTPUT
 iavo,thpa
